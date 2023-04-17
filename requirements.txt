@@ -1,7 +1,7 @@
 scipy
-matplotlib
+#matplotlib
 pandas
-seaborn
+#seaborn
 scikit-learn
 tqdm
-statsmodels
+#statsmodels
