@@ -35,16 +35,17 @@ anime_output_only = True
 # In[186]:
 
 
-import numpy as np
-import pandas as pd
+# import numpy as np
+# import pandas as pd
 
-import scipy
-import sklearn.metrics
-from scipy import sparse
-from sklearn.metrics.pairwise import pairwise_distances, cosine_distances
+# $pip install scipy
+# import scipy
+# import sklearn.metrics
+# from scipy import sparse
+# from sklearn.metrics.pairwise import pairwise_distances, cosine_distances
 
-# for progress bar on loops
-from tqdm import tqdm
+# # for progress bar on loops
+# from tqdm import tqdm
 
 
 # #### Read in Dataframe of raw data with info columns
