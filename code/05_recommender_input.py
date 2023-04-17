@@ -38,6 +38,8 @@ anime_output_only = True
 import numpy as np
 import pandas as pd
 
+import scipy
+import sklearn.metrics
 from scipy import sparse
 from sklearn.metrics.pairwise import pairwise_distances, cosine_distances
 
