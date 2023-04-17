@@ -2,6 +2,6 @@ scipy
 matplotlib
 pandas
 seaborn
-sklearn
+scikit-learn
 tqdm
 statsmodels
