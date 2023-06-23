@@ -1,0 +1,7 @@
+scipy
+#matplotlib
+pandas
+#seaborn
+scikit-learn
+tqdm
+#statsmodels
